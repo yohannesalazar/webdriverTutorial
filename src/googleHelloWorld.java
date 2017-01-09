@@ -1,14 +1,14 @@
 
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
 
 
 public class googleHelloWorld
 
 {
+
     public static WebDriver driver;
-    public String name = "Hannes";
 
     public static void main( String[] args )
     {
